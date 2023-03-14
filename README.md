@@ -6,8 +6,7 @@ After 10 years of experience in education, I am switching to Java & Android Deve
 My years of teaching have proven to me the value of group work, how different viewpoints help to merge ideas and the importance of different sets of skills.
 
 If you want to know more about me, feel free to contact me:\
-[LinkedIn](linkedin.com/in/marçal-fargas-1b6986254)\
-[marcalfargas@gmail.com](marcalfargas@gmail.com)
+[![Marçal Fargas's LinkedIn](https://img.shields.io/badge/LinkedIn-Mar%C3%A7al%20Fargas-blue)](https://www.linkedin.com/in/mar%C3%A7al-fargas-1b6986254)
 
 <!--
 **marfulfar/marfulfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
