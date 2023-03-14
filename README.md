@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello! My name is Marçal Fargas.
+
+After majoring in philosophy and completing a masters in education I have been teaching high school and complementary courses in college. I have taught and tutored philosophy, psychology and sociology.
+After 10 years of experience in education, I am switching to Java & Android Development, a sector that I have always found myself very passionate about.
+
+My years of teaching have proven to me the value of group work, how different viewpoints help to merge ideas and the importance of different sets of skills.
+
+If you want to know more about me, feel free to contact me:\
+[LinkedIn](linkedin.com/in/marçal-fargas-1b6986254)\
+[marcalfargas@gmail.com](marcalfargas@gmail.com)
 
 <!--
 **marfulfar/marfulfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
